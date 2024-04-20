@@ -1,2 +1,2 @@
-# Data-Structure-NCU
-NCU Data Structure, 張貴雲
+# Data-Structures-NCU
+NCU Data Structures, 張貴雲
